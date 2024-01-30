@@ -11,10 +11,10 @@ user_title: Graphic Designer
 email: josejhonvincent.m@gmail.com
 twitter_username: roundcheese_
 github_username:  josejhonvincent
-gplus_username:  lorem_ipsum
+#gplus_username:  lorem_ipsum
 
 # Google-analytics
-google-analytics:
-  id: ""
+#google-analytics:
+  #id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
